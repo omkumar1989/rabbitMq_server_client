@@ -1,0 +1,6 @@
+com\om\rabbit\rabbitmqpoc\dto\OrderStatus.class
+com\om\rabbit\rabbitmqpoc\config\MessagingConfig.class
+com\om\rabbit\rabbitmqpoc\publisher\OrderPublisher.class
+com\om\rabbit\rabbitmqpoc\RabbitMqpocApplication.class
+com\om\rabbit\rabbitmqpoc\consumer\User.class
+com\om\rabbit\rabbitmqpoc\dto\Order.class
